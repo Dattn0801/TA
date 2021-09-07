@@ -1,0 +1,7 @@
+C:\Users\T460s\Desktop\TA\Lab5_Plus\bin\Debug\Lab5_Plus.exe.config
+C:\Users\T460s\Desktop\TA\Lab5_Plus\bin\Debug\Lab5_Plus.exe
+C:\Users\T460s\Desktop\TA\Lab5_Plus\bin\Debug\Lab5_Plus.pdb
+C:\Users\T460s\Desktop\TA\Lab5_Plus\obj\Debug\Lab5_Plus.csprojAssemblyReference.cache
+C:\Users\T460s\Desktop\TA\Lab5_Plus\obj\Debug\Lab5_Plus.csproj.CoreCompileInputs.cache
+C:\Users\T460s\Desktop\TA\Lab5_Plus\obj\Debug\Lab5_Plus.exe
+C:\Users\T460s\Desktop\TA\Lab5_Plus\obj\Debug\Lab5_Plus.pdb
